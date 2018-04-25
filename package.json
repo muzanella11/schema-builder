@@ -1,0 +1,27 @@
+{
+  "name": "schema-builder",
+  "version": "1.0.0",
+  "description": "Schema builder for mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node schema.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzanella11/schema-builder.git"
+  },
+  "keywords": [
+    "enem"
+  ],
+  "author": "Nurfirliana Muzanella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzanella11/schema-builder/issues"
+  },
+  "homepage": "https://github.com/muzanella11/schema-builder#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "log": "^1.4.0"
+  }
+}
